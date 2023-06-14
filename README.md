@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/tTSloFL.png" alt="Logo" width="200px">
+</p>
+
+
 # UEMF Blog 🚀
 
 👋 Salut ! Je suis heureux de vous présenter mon projet UEMF Blog, un site web de blog développé en utilisant les technologies Node.js et React.js.
